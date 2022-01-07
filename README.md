@@ -1,2 +1,2 @@
 # Data-Cleaning-In-SQL
-Some Common Methodologies for Cleaning Data in SQL
+This project involves different approaches to handel missing data, standardize date format, splitting a single column into multiple columns etc. It covers **Self Joins**, **CTE**, **Window Functions**, **Sub Queries** and **DML** commands.
